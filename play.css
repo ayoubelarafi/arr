@@ -1,0 +1,41 @@
+*{margin: 0;
+
+}
+
+
+main{
+    width: 360px;
+    background-color: rgb(233, 72, 72);
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+header{
+    text-align: center;
+    color: white;
+    height: 300px;
+}
+header img{
+    margin-top: 20px;
+    height: 140px;
+}
+header h2{
+    margin: 20px 0;
+}
+header p {
+    font-size: 22px;
+}
+#content{
+    background-color: rgb(207, 180, 147);
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+  padding-top: 20px
+}
+#buttons img {
+    width:45px ;
+    height: 45px;
+    margin: 0 15px;
+
+}
